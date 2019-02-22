@@ -10,3 +10,4 @@ and a red bow tie, except for when he is skiing.
 
 Dr Fish first discovered an Octopus in 1903, but we don't think Ted 
 is this old.
+Mr Aquaman also has studied the history of the Octopus.
