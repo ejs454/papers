@@ -1,8 +1,9 @@
 # Authors
 Emma Siragher
+John Worm
 
 # Title
-A Case Study of Octopus Life; Following Ted the Octopus
+A Case Study of Octopus Life; Following the Life of Ted the Octopus to produce a simulation of octopus growth
 
 # Introduction
 There once was an octopus named Ted. Ted wore a brown trilby hat 
@@ -11,3 +12,6 @@ and a red bow tie, except for when he is skiing.
 Dr Fish first discovered an Octopus in 1903, but we don't think Ted 
 is this old.
 Mr Aquaman also has studied the history of the Octopus.
+
+# Simulations
+John ran his Oct-Mod model to simulate octopus growth
