@@ -1,8 +1,9 @@
 # Authors
 Emma Siragher
+John Worm
 
 # Title
-Ted the Octopus
+Ted the Octopus - a simulation of octopus growth
 
 # Introduction
 There once was an octopus named Ted. Ted wore a brown trilby hat 
